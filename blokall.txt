@@ -1779,8 +1779,6 @@
 ||sdk.snapkit.com^
 ||snapkit.com^
 ||modulous.huffpost.com^
-||tiktok.com^
-||tiktok.com^
 ||a02342.heraldscotland.com^
 ||uatu.newsquestdigital.co.uk^
 ||mediaforce.grapeshot.co.uk^
@@ -17413,7 +17411,6 @@ mijn.intwente.nl##mijn-feedback
 ||mgtv.com^$third-party
 ||bilibili.com^$third-party
 ||iqiyi.com^$third-party
-||tiktok.com^$third-party
 ||instagram.com^$third-party
 ||trwitter.com^$third-party
 ||twitter.com^$third-party
