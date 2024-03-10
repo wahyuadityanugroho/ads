@@ -1,0 +1,17 @@
+# Daftar kata untuk memblokir kata-kata kasar
+
+# Kata-kata individual
+kasar
+umpatan
+brengsek
+
+# Frasa
+kata-kata kotor
+bahasa kotor
+
+# Wildcard
+*anjing*
+*sial*
+
+# Regex
+^[Ff]uck.*
